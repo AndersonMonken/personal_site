@@ -15,7 +15,7 @@ day_night = true
 font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Anderson Monken's Website - Data Scientist and Adjunct Professor in Washington, D.C. - Expert in big data, machine learning, and textual analytics"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
