@@ -61,21 +61,6 @@ date_format = "Jan 2006"
   
   """
 
-<<<<<<< HEAD
-=======
-[[experience]]
-  title = "Adjunct Faculty"
-  company = "Data Science and Analytics Program - Georgetown University"
-  company_url = "https://analytics.georgetown.edu/#"
-  location = "Washington D.C."
-  date_start = "2021-06-01"
-  date_end = ""
-  description = """Teaching graduate students skills in machine learning, data science, and big data
-* Supporting faculty for ANLY 501 - Fall 2021
-* Faculty for ANLY 502 - Spring 2022
-"""
->>>>>>> 422b6f4e990da80d9492c05d518b9b1e4c0658c7
-
 [[experience]]
   title = "Senior Research Assistant"
   company = """International Finance Division - Federal Reserve Board of Governors"""
