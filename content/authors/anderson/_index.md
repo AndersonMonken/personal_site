@@ -23,7 +23,7 @@ interests:
 
 name: Anderson Monken
 organizations:
-- name: Technology Analyst, Federal Reserve Board of Governors
+- name: Group Manager, Federal Reserve Board of Governors
 - name: Adjunct Faculty, Georgetown University
 social:
 - icon: envelope
@@ -34,7 +34,7 @@ social:
   link: https://www.linkedin.com/in/anderson-monken-7ba43b43
 - icon: github
   icon_pack: fab
-  link: https:///github.com/AndersonMonken/
+  link: https://github.com/AndersonMonken/
 
 superuser: true
 user_groups:
@@ -42,4 +42,4 @@ user_groups:
 - Visitors
 ---
 
-I am interested improving policymaking using data science. As an analyst at the Federal Reserve Board, I have built a diverse portfolio of research experience, technical expertise, and teaching materials. My research includes work on international trade, graph neural networks, natural language processing, and more. I am experienced with technologies such as Hadoop, Spark, Impala, TensorFlow, PyTorch, spaCy, NLTK, and R.
+I am interested improving policymaking by harnessing the power of data science. As a data manager at the Federal Reserve Board, I lead a team with a diverse project workload that includes research, policy, and operational data and software projects. My personal portfolio has strong research experience, technical expertise, and teaching materials. My research includes work on international trade, graph neural networks, natural language processing, and more. I am experienced with technologies such as Hadoop, Spark, Impala, TensorFlow, PyTorch, spaCy, NLTK, and R.

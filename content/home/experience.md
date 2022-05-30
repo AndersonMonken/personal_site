@@ -18,12 +18,39 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+
+  title = "Group Manager"
+  company = """International Finance Division - Federal Reserve Board of Governors"""
+  company_url = "https://www.federalreserve.gov/default.htm"
+  location = "Washington D.C."
+  date_start = "2022-02-01"
+  date_end = ""
+  description = """
+  I am the group manager for the Data Science and Application Development (DSAD) group, which serves as in-house experts in application design, automation, data science, big data, and AI for research, policy, and operational needs at the Federal Reserve Board. We host the Data Science and Engineering Hub in the Division of International Finance.
+  
+  I lead of a team of 5 data scientists and application developers who manage applications and data that serve hundreds of internal staff. We contribute to the Board's cloud adoption efforts and maintain many important climate, textual, and trade databases.
+  
+  Please reach out to me if you want to talk about data science for economics!
+  """
+  
+  
+[[experience]]
+  title = "Adjunct Faculty"
+  company = "Data Sicence and Analytics Program - Georgetown University"
+  company_url = "https://analytics.georgetown.edu/#"
+  location = "Washington D.C."
+  date_start = "2021-06-01"
+  date_end = ""
+  description = """Teaching graduate students skills in machine learning, data science, and big data"""
+  
+  
+[[experience]]
   title = "Technology Analyst"
   company = """International Finance Division - Federal Reserve Board of Governors"""
   company_url = "https://www.federalreserve.gov/default.htm"
   location = "Washington D.C."
   date_start = "2018-10-01"
-  date_end = ""
+  date_end = "2022-02-01"
   description = """
   Responsibilities include:
   
@@ -34,14 +61,6 @@ date_format = "Jan 2006"
   
   """
 
-[[experience]]
-  title = "Adjunct Faculty"
-  company = "Data Sicence and Analytics Program - Georgetown University"
-  company_url = "https://analytics.georgetown.edu/#"
-  location = "Washington D.C."
-  date_start = "2021-06-01"
-  date_end = ""
-  description = """Teaching graduate students skills in machine learning, data science, and big data"""
 
 [[experience]]
   title = "Senior Research Assistant"

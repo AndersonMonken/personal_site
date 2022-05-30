@@ -42,6 +42,6 @@ hero_media = "headshot.jpg"
   label = "Contact me"
 
 +++
-## My name is **Anderson Monken** and I'm a **Data Scientist** and an **Adjunct Professor** in Data Science
+## My name is **Anderson Monken** and I'm a **Data Science Manager** and an **Adjunct Professor** in Data Science
 
 I specialize in big data, natural language processing, and machine learning. My research interests focus on the application of artificial intelligence to improve economic policymaking.
