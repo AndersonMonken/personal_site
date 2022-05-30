@@ -19,9 +19,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Federal Reserve Board of Governors"
+  organization_url = "https://www.federalreserve.gov/default.htm"
+  title = "Special Achievement Award"
+  url = ""
+  date_start = "2021-11-01"
+  description = """
+  Award can be received once in your career at the Federal Reserve Board and is awarded to 10-30 staff per year across the entire organization.
+  
+  Award Description: "Anderson receives the award for his extraordinary initiative and innovation in advancing the Board's data management and analytics capabilities. He worked across the Board and Federal Reserve System to promote innovative techniques and new technologies to change how analysts do their work. His efforts have made big-data analysis, machine learning, artificial intelligence, text analysis, and cloud computing more accessible to other staff, enabling these techniques to become integral parts of regular processes."
+  """
+
+[[item]]
   organization = "Georgetown University"
   organization_url = "https://analytics.georgetown.edu/#"
-  title = "Master's of Science"
+  title = "Master of Science - Data Science and Analytics"
   url = ""
   date_start = "2019-08-01"
   date_end = "2021-05-01"
@@ -33,7 +45,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Vanderbilt University"
   organization_url = "https://vanderbilt.edu"
-  title = "Bachelor's of Arts"
+  title = "Bachelor of Arts"
   date_start = "2013-08-01"
   date_end = "2017-05-01"
   description = """Majors in Chemistry, Economics, and Mathematics
