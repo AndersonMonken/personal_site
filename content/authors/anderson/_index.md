@@ -9,7 +9,7 @@ btn:
 display_education: true
 education:
   courses:
-  - course: MS in Data Science
+  - course: MS in Data Science and Analytics
     institution: Georgetown
     year: 2021
   - course: BA in Chemistry, Economics, Mathematics

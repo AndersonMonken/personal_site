@@ -36,12 +36,15 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Adjunct Faculty"
-  company = "Data Sicence and Analytics Program - Georgetown University"
+  company = "Data Science and Analytics Program - Georgetown University"
   company_url = "https://analytics.georgetown.edu/#"
   location = "Washington D.C."
   date_start = "2021-06-01"
   date_end = ""
-  description = """Teaching graduate students skills in machine learning, data science, and big data"""
+  description = """Teaching graduate students skills in machine learning, data science, and big data
+* Supporting faculty for ANLY 501 - Fall 2021
+* Faculty for ANLY 502 - Spring 2022
+"""
 
 [[experience]]
   title = "Senior Research Assistant"
@@ -56,4 +59,20 @@ date_format = "Jan 2006"
   * Upgrading macroeconomic forecasting architecture
   * Researching developments in labor force participation in advanced economies
   """
+  
+  
+# [[experience]]
+#   title = "Teaching Assistant"
+#   company = "Data Science and Analytics Program - Georgetown University"
+#   company_url = "https://analytics.georgetown.edu/#"
+#   location = "Washington D.C."
+#   date_start = "2020-08-01"
+#   date_end = "2021-05-01"
+#   description = """
+#   Responsibilities included:
+# 
+#   * Teaching 3-hour review sessions for data science and machine learning
+#   * Designed coding exercises for the course to build skills in parallel processing for python
+#   """
+
 +++
